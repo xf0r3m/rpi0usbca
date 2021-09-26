@@ -1,0 +1,21 @@
+- main
+    ✔ --main @started(20-04-08 11:03) @done(20-05-27 17:37) @lasted(7w6h34m53s)
+        ✔ --- Nowe CA @done(20-04-08 13:00)
+        ✔ --- Klucz CA @done(20-04-08 13:49)
+        ✔ --- Certyfikat CA @done(20-04-15 14:07)
+        ✔ --- Klucz prywatny @done(20-04-16 12:00)
+        ✔ --- Generuj wniosek @done(20-04-16 13:54)
+        ✔ --- Podpisz wniosek @done(20-04-16 17:21)
+        ✔ --- Sciągnij hasło @done(20-04-16 18:35)
+        ✔ --- Unieważnij certyfikat @done(20-04-18 10:38)
+        ✔ --- Generuj CRL @done(20-04-18 11:37)
+        ✔ --- Sprawdź ważnosc @done(20-04-19 10:30)
+        ✔ --- Konwersje @done(20-04-19 10:56)
+        ✔ --- Konfiguruj dostęp @done(20-05-27 17:29)
+        ✔ --- Wyjscie @done(20-05-27 17:37)
+    ✘ -- install @cancelled(20-05-27 17:38)
+        --- Sprawdź czy jest dostepny whiptail
+        --- Sprawdz czy jest dostepny openssl
+        --- Sprawdz czy jest dostepny lighttpd
+        --- Sprawdz czy jest mozliwe zalogownie sie na root przez ssh
+        --- Dodaj to plików .bashrc oraz .profile w katalogu domowym root
